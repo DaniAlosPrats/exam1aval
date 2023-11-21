@@ -8,3 +8,4 @@
 8. cat Alumnos.txt | sed 's/Vicente/Pepe/g' Alumnos.txt
 9. cat Alumnos.txt | grep -v 2020 Alumnos.txt
 10. cat Alumnos.txt | grep  J Alumnos.txt
+11. sort -r du.txt
