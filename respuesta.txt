@@ -1,3 +1,5 @@
 1. mkdir examen
 2. cd examen/
 3. cat si.txt  | grep -i "si" si.txt
+mkdir si
+4. mv si.txt  si
